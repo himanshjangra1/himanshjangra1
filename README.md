@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Himanshu Jangra an Engineering student who is <br>currently working on enhancing technical skills in tech and focusing on continuous learning. Language : Java, Python, JavaScript<br>Library & Frameworks : Nodejs, Express, Mongoose, JWT
+Hi, I am Himanshu Jangra an Engineering student who is <br>currently working on enhancing technical skills in tech and focusing on continuous learning. Language : Java, Python, JavaScript<br>Library & Frameworks : Nodejs, Express, Mongoose, JWT, bcrypt, zod, mongoose
 
 
 ## 🌐 Socials:
